@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137006463703",
+    "project_id": "bubt-5d64e",
+    "storage_bucket": "bubt-5d64e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137006463703:android:17e2875dccff7fa8c54e92",
+        "android_client_info": {
+          "package_name": "com.example.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137006463703-r019lqqdlncrdkkvdi5kt1oa6u2fr4cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo5c0D0MvzXI07m1DHU8nlGPnF1WTkTOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137006463703-r019lqqdlncrdkkvdi5kt1oa6u2fr4cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
