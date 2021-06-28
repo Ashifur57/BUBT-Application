@@ -1,0 +1,14 @@
+com/example/bubtapp/ui/gallery/GalleryFragment.java
+ com.example.bubtapp.ui.gallery.GalleryFragment
+com/example/bubtapp/ui/notice/NoticeFragment.java
+ com.example.bubtapp.ui.notice.NoticeFragment
+com/example/bubtapp/BuildConfig.java
+ com.example.bubtapp.BuildConfig
+com/example/bubtapp/ui/faculty/FacultyFragment.java
+ com.example.bubtapp.ui.faculty.FacultyFragment
+com/example/bubtapp/MainActivity.java
+ com.example.bubtapp.MainActivity
+com/example/bubtapp/ui/about/AboutFragment.java
+ com.example.bubtapp.ui.about.AboutFragment
+com/example/bubtapp/ui/home/HomeFragment.java
+ com.example.bubtapp.ui.home.HomeFragment
